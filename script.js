@@ -54,5 +54,6 @@ const jokeSections = {
     }
 };
 
-// 
+// joke generator
 
+console.log(`${jokeSections.setUps()}\n${jokeSections.punchLines()}\n${jokeSections.twists()}`);
